@@ -1,4 +1,4 @@
-# alter-ipse-corde
+# alter-ipse-coder
 # ¡Hola, soy José Luis Cordero!
 Bienvenido a mi perfil de GitHub. Aquí comparto quién soy, qué hago y cómo combino la tecnología con el pensamiento crítico y el aprendizaje continuo.
 Soy un apasionado del aprendizaje continuo, la tecnología, y el pensamiento crítico.
